@@ -20,6 +20,7 @@ As Data analyst created all department dashboard
 - Create Sales and Marketing view to based on them management
 - Create supply chain view to mockups suggest from realted management 
 - Create executive view that will help to take big decisions by CEO's.
+
 This all dashboard could be used by one which from Finance,Sales, Marketing and Supply Chain and also Executive view.
 
 # Data Model
