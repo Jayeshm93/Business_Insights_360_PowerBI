@@ -7,7 +7,7 @@ AtliQ Hardware is a company which growing fastely in recent years and actively s
 Link to [Interactive Dashboard](https://app.powerbi.com/groups/me/list?experience=power-bi)
 
 # Problems Statement
-AtliQ Hardware was doing well from past few year but recent years management identifed, company faced problems. Stakeholders / Management had taken ineffective strategic decisions to compete with other companies.
+AtliQ Hardware was doing well from past few year but recent years management identifed, company faced major problems in all department. Stakeholders / Management had taken ineffective strategic decisions to compete with other companies.
 Hence company faced challenges in losing market share in various countries despite increasing operational expenses.
 Declined revenue by Customers (retailers,direct, distributor).
 Rapidly increasing net error % which is concern from supply chain management.
