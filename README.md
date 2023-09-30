@@ -15,7 +15,7 @@ Rapidly increasing net error % which is concern from supply chain management.
 So, they decided to hire a third party service providers to provide insights them from historical data.
 
 # Task
-As Data analyst created all department dashboard
+As Data analyst developed all department dashboard from sources (2 SQL Database, Excel files)
 - Create Finance view according to mockups Matrics
 - Create Sales and Marketing view to based on them management
 - Create supply chain view to mockups suggest from realted management 
