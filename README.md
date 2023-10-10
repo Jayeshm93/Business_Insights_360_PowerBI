@@ -31,37 +31,37 @@ This all dashboard could be used by one which from Finance,Sales, Marketing and 
 # Home view
 <p align="center">
     <img 
-src= ' ' height="300">
+src= 'https://github.com/Jayeshm93/Business_Insights_360_PowerBI/blob/0e1897bbc3c8838f1f1ad473369bb3eaaa34fc71/Home%20View.png' height="300">
 </p>
 
 # Finance View
 <p align="center">
     <img 
-src=' ' height="300">
+src='https://github.com/Jayeshm93/Business_Insights_360_PowerBI/blob/0e1897bbc3c8838f1f1ad473369bb3eaaa34fc71/Finance%20View.png' height="300">
 </p>
 
 # Sales view
 <p align="center">
     <img
-src=' ' height="300">
+src='https://github.com/Jayeshm93/Business_Insights_360_PowerBI/blob/0e1897bbc3c8838f1f1ad473369bb3eaaa34fc71/Sales%20View.png' height="300">
 </p>
 
 # Marketing view
 <p align="center">
     <img
-src=' ' height="300">
+src='https://github.com/Jayeshm93/Business_Insights_360_PowerBI/blob/0e1897bbc3c8838f1f1ad473369bb3eaaa34fc71/Marketing%20View.png' height="300">
 </p>
 
 # Supply Chain view
 <p align="center">
     <img 
- src =' '   height="300">
+ src ='https://github.com/Jayeshm93/Business_Insights_360_PowerBI/blob/0e1897bbc3c8838f1f1ad473369bb3eaaa34fc71/Supply%20Chain%20View.png'   height="300">
 </p>
 
 # Executive view
 <p align="center">
     <img
-src =' ' height="300">
+src ='https://github.com/Jayeshm93/Business_Insights_360_PowerBI/blob/0e1897bbc3c8838f1f1ad473369bb3eaaa34fc71/Executive%20View.png' height="300">
 </p>
 
 
