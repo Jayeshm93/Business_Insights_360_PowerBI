@@ -25,7 +25,7 @@ This all dashboard could be used by one which from Finance,Sales, Marketing and 
 
 # Data Model
 <p align="center">
-    <img src=' ' height="400">
+    <img src='https://github.com/Jayeshm93/Business_Insights_360_PowerBI/blob/e85c095317e507cb4ca9974519d48e19315f48d7/Data%20Model.png' height="400">
 </p>
 
 # Home view
